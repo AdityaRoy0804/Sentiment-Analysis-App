@@ -64,7 +64,7 @@ streamlit run app.py
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adityaroy0804/)
 - 💻 [GitHub](https://github.com/AdityaRoy0804)
-- 📧 Email: roy97278@gmail.com
+- 📧 [Email](roy97278@gmail.com)
 
 
 ---
